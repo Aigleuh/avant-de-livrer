@@ -2,7 +2,7 @@
 
 Un skill pour Claude Code qui prépare un projet avant de le livrer à un client : journaux d'erreurs, clés et mots de passe, alertes, plafonds de dépenses, document de passation.
 
-Par Clive AI.
+Par Clive-Christian Mabiala.
 
 ## Installation en une consigne
 
